@@ -18,7 +18,7 @@ so it's not a zigzag code.
 # Requirements
     python3 setuptools pip
 
-# Instalation
+# Installation
 
 From PyPI: [NOT REGISTERED YET]
 
